@@ -1,4 +1,5 @@
 # DenshaDeGo_controller
+Picture: main/IMG_7512.JPG
 3d printed recreation of Densha de Go! train controller using limit switches or pogo pins. 
 Please remind: This is not a perfect controller. I've made this controller as a test for myself. 
 I've made it also because I want to experience Densha de Go! on train controller and not on gamepad. 
